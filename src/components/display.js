@@ -62,6 +62,7 @@ componentDidMount() {
                   <thead class="thead-dark">
                     <tr>
                       <th scope="col">Name</th>
+                      <th scope="col">State</th>
                       <th scope="col">City</th>
                       <th scope="col">Country</th>
                       <th scope="col">Developer Type</th>
